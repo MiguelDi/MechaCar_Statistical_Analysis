@@ -36,10 +36,10 @@ The MechaCar_mpg.csv dataset was used to perform this linear progression.  The d
 ## Summary Statistics on Suspension Coils
 
 ### Total Summary Chart
-![Total Summary](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/Resources/Total%20Summary%20Chart.png)
+![Total Summary](https://github.com/MiguelDi/MechaCar_Statistical_Analysis/blob/main/Resources%20/Total_SummaryDe2.png)
 
 ### Lot Summary Chart
-![Lot Summary](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/Resources/Lot_Summary%20chart.png)
+![Lot Summary](https://github.com/MiguelDi/MechaCar_Statistical_Analysis/blob/main/Resources%20/Lot_Summary2.png)
 
 ### Summary
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple productions lots.  In this dataset, the weight capaciities of multiple suspension coils were tested to determine if the manufacturing process is consistance across production lots.  A summary statistics table was designed to show:
