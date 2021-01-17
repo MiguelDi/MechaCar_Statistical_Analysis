@@ -55,16 +55,16 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 ## T-Tests on Suspension Coils
 
 ### T-Test All Manufacturing Lots
-![T-test(All Lots)](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/Resources/T.test(all%20lots).png)
+![T-test(All Lots)](https://github.com/MiguelDi/MechaCar_Statistical_Analysis/blob/main/Resources%20/T_TestALL.png)
 
 ### T-Test Lot 1
-![lot 1](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/Resources/t-test%20Lot1.png)
+![lot 1](https://github.com/MiguelDi/MechaCar_Statistical_Analysis/blob/main/Resources%20/T_Testlot1.png)
 
 ### T-Test Lot 2
-![Lot 2](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/Resources/T-test%20Lot2.png)
+![Lot 2](https://github.com/MiguelDi/MechaCar_Statistical_Analysis/blob/main/Resources%20/T_testlot2.png)
 
 ### T-Test Lot 3
-![Lot 3](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/Resources/T-test%20Lot3.png)
+![Lot 3](https://github.com/MiguelDi/MechaCar_Statistical_Analysis/blob/main/Resources%20/T_testlot3.png)
 
 ### T-Test Summary of Findings
 
